@@ -1,7 +1,7 @@
 # Compromising-windows-using-Metasploit
 Compromising windows using Metasploit
-## Name: Shanmuga Raj.K
-## Reg no: 212223040192
+## Name: Vineela Shaik
+## Reg no: 212223040243
 # Metasploit
 Compromising windows using Metasploit
 
